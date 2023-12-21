@@ -10,6 +10,7 @@ In order to build st you need the Xlib header files.
 Patches
 ------------
 - anysize (st-expected-anysize-0.9.diff)
+- gruvbox (st-gruvbox-dark-0.8.5.diff)
 
 Installation
 ------------
